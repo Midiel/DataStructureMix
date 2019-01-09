@@ -1,7 +1,7 @@
 /*********************************************************************
 Purpose/Description: This program compares two lists for items in common and
                      items that are found in only one list.
-Author’s Panther ID: 1735870
+Author’s Panther ID: xxxxxxx
 Certification:
 I hereby certify that this work is my own and none of it is the work of
 any other person.
