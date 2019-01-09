@@ -1,7 +1,7 @@
 /*********************************************************************
 Purpose/Description: This program finds a number "x" inside a sorted array
                      of integers.
-Author’s Panther ID: 1735870
+Author’s Panther ID: xxxxxxx
 Certification:
 I hereby certify that this work is my own and none of it is the work of
 any other person.
